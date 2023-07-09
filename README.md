@@ -1,4 +1,7 @@
 # DataInsight-Master-Data-Analysis-and-PDF-Reporting
+
+[SQL+Python(sales,customer,product) Chart.pdf](https://github.com/Farithabanu-M/DataInsight-Master-Data-Analysis-and-PDF-Reporting/files/11995002/SQL%2BPython.sales.customer.product.Chart.pdf)
+
 # Data Analysis and PDF Reporting Project
 
 This repository contains a comprehensive guide on how to perform data analysis, manipulation, and generate visually appealing PDF reports. The project utilizes SQL queries, Pandas, and Plotly Express to extract, transform, and visualize data.
@@ -22,3 +25,5 @@ Learn to generate stunning PDF reports using the FPDF library. FPDF allows for t
 This project provides step-by-step instructions, accompanied by code examples, to help transform raw data into insightful reports. Whether you are a data analyst, researcher, or business professional, this guide will equip you with the necessary skills to leverage data effectively and present it in visually appealing PDF reports.
 
 Start your journey now and unlock the potential of data analysis and reporting skills.
+[SQL+Python(sales,customer,product) Chart.pdf](https://github.com/Farithabanu-M/DataInsight-Master-Data-Analysis-and-PDF-Reporting/files/11994996/SQL%2BPython.sales.customer.product.Chart.pdf)
+
